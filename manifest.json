@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Don't show the item labels in UI",
-        "name": "No_Item_label_v0.01",
+        "description": "Don't show the item labels in HUD",
+        "name": "No_Item_label_v0.0.1",
         "uuid": "210bdaa4-8dc6-40d2-8449-0c3881cc6be6",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 20, 30 ]
