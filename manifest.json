@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Don't show the item labels in UI",
+        "name": "No_Item_label_v0.01",
+        "uuid": "210bdaa4-8dc6-40d2-8449-0c3881cc6be6",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 30 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "98ec920d-1b70-4ed4-bd09-005e151fe82f",
+            "version": [0, 0, 1]
+        }
+    ]
+}
