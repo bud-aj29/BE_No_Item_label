@@ -1,0 +1,2 @@
+- Last tested on 1.20.51
+- Don't show the item labels in HUD
